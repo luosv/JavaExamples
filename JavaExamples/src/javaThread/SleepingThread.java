@@ -35,9 +35,8 @@ public class SleepingThread extends Thread {
     public static void main(String[] args) throws InterruptedException {
 
         for (int i = 0; i < 5; i++) {
-            //new SleepingThread().join();
+            new SleepingThread().join();
         }
-        new SleepingThread().join();
         System.out.println("线程已被挂起");
 
     }
