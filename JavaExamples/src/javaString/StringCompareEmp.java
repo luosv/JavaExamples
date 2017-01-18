@@ -2,7 +2,7 @@ package javaString;
 
 /**
  * 字符串比较
- * Created by Administrator on 2016/10/12 0012.
+ * Created by luosv on 2016/10/12 0012.
  */
 public class StringCompareEmp {
 

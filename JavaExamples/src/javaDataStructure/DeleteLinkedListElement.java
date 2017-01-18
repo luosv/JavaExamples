@@ -4,7 +4,7 @@ import java.util.LinkedList;
 
 /**
  * 删除链表中的元素
- * Created by LuoSw on 2016/10/25 0025.
+ * Created by luosv on 2016/10/25 0025.
  */
 public class DeleteLinkedListElement {
 

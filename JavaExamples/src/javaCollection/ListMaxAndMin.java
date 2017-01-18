@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * 查找 List 中的最大最小值
- * Created by LuoSw on 2016/11/3 0003.
+ * Created by luosv on 2016/11/3 0003.
  */
 public class ListMaxAndMin {
 

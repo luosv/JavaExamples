@@ -2,7 +2,7 @@ package javaMethods;
 
 /**
  * 方法覆盖
- * Created by LuoSw on 2016/10/18 0018.
+ * Created by luosv on 2016/10/18 0018.
  */
 public class MethodOverriding {
 

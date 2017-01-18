@@ -2,7 +2,7 @@ package javaMethods;
 
 /**
  * 重载(overloading)方法中使用 Varargs
- * Created by LuoSw on 2016/10/18 0018.
+ * Created by luosv on 2016/10/18 0018.
  */
 public class OverloadingVarargs {
 

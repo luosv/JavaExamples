@@ -5,7 +5,7 @@ import java.util.Collections;
 
 /**
  * 数组反转
- * Created by Administrator on 2016/10/14 0014.
+ * Created by luosv on 2016/10/14 0014.
  */
 public class ListReversal {
 

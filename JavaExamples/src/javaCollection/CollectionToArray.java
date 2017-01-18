@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * 集合转数组
- * Created by LuoSw on 2016/11/3 0003.
+ * Created by luosv on 2016/11/3 0003.
  */
 public class CollectionToArray {
 

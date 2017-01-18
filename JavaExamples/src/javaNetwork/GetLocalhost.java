@@ -4,7 +4,7 @@ import java.net.InetAddress;
 
 /**
  * 获取本机ip地址及主机名
- * Created by LuoSw on 2016/10/31 0031.
+ * Created by luosv on 2016/10/31 0031.
  */
 public class GetLocalhost {
 

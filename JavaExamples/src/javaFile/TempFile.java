@@ -6,7 +6,7 @@ import java.io.FileWriter;
 
 /**
  * 创建临时文件
- * Created by LuoSw on 2016/10/19 0019.
+ * Created by luosv on 2016/10/19 0019.
  */
 public class TempFile {
 

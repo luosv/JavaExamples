@@ -5,7 +5,7 @@ import java.net.UnknownHostException;
 
 /**
  * 获取指定主机的IP地址
- * Created by LuoSw on 2016/10/31 0031.
+ * Created by luosv on 2016/10/31 0031.
  */
 public class GetAddress {
 

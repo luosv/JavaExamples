@@ -2,9 +2,9 @@ package javaException;
 
 /**
  * 获取异常的堆栈信息
- * Created by LuoSw on 2016/10/24 0024.
+ * Created by luosv on 2016/10/24 0024.
  */
-public class ExcpetionDemo06 {
+public class ExceptionDemo06 {
 
     public static void main(String[] args) {
 

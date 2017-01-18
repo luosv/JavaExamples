@@ -4,7 +4,7 @@ import java.io.IOException;
 
 /**
  * 利用堆栈将中缀表达式转换成后缀表达式
- * Created by LuoSw on 2016/10/25 0025.
+ * Created by luosv on 2016/10/25 0025.
  */
 public class InToPost {
 

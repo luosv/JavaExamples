@@ -2,7 +2,7 @@ package javaString;
 
 /**
  * 字符串性能比较测试
- * Created by Administrator on 2016/10/13 0013.
+ * Created by luosv on 2016/10/13 0013.
  */
 public class StringComparePerformance {
 

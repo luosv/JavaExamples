@@ -2,7 +2,7 @@ package javaException;
 
 /**
  * 多线程异常处理
- * Created by LuoSw on 2016/10/24 0024.
+ * Created by luosv on 2016/10/24 0024.
  */
 class MyThread extends Thread {
 

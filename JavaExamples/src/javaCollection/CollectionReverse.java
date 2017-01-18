@@ -7,7 +7,7 @@ import java.util.ListIterator;
 
 /**
  * 集合反转
- * Created by LuoSw on 2016/10/31 0031.
+ * Created by luosv on 2016/10/31 0031.
  */
 public class CollectionReverse {
 

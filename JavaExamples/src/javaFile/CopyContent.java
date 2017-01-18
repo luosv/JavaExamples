@@ -4,7 +4,7 @@ import java.io.*;
 
 /**
  * 将文件内容复制到另一个文件
- * Created by LuoSw on 2016/10/19 0019.
+ * Created by luosv on 2016/10/19 0019.
  */
 public class CopyContent {
 

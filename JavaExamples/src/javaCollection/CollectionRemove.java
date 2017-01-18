@@ -5,7 +5,7 @@ import java.util.Iterator;
 
 /**
  * 删除集合中指定元素
- * Created by LuoSw on 2016/10/31 0031.
+ * Created by luosv on 2016/10/31 0031.
  */
 public class CollectionRemove {
 

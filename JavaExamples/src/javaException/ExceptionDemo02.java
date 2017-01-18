@@ -2,7 +2,7 @@ package javaException;
 
 /**
  * 多个异常处理（多个catch）
- * Created by LuoSw on 2016/10/21 0021.
+ * Created by luosv on 2016/10/21 0021.
  */
 class Demo {
 

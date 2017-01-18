@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  * 在数组中查找指定元素
- * Created by Administrator on 2016/10/17 0017.
+ * Created by luosv on 2016/10/17 0017.
  */
 public class ListSearchElement {
 

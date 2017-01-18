@@ -2,7 +2,7 @@ package javaThread;
 
 /**
  * 状态监测
- * Created by lv on 2016/11/7 0007.
+ * Created by luosv on 2016/11/7 0007.
  */
 class MyThread extends Thread {
 

@@ -4,7 +4,7 @@ import java.util.LinkedList;
 
 /**
  * 链表修改
- * Created by LuoSw on 2016/10/26 0026.
+ * Created by luosv on 2016/10/26 0026.
  */
 public class LinkedListChange {
 

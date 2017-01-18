@@ -2,7 +2,7 @@ package javaMethods;
 
 /**
  * enum和switch语句使用
- * Created by LuoSw on 2016/10/18 0018.
+ * Created by luosv on 2016/10/18 0018.
  */
 enum Car {
     lamborghini, tata, audi, fiat, honda

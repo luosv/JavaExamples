@@ -5,9 +5,9 @@ import java.net.URLConnection;
 
 /**
  * 获取远程文件大小
- * Created by LuoSw on 2016/10/31 0031.
+ * Created by luosv on 2016/10/31 0031.
  */
-public class GetTelefile {
+public class GetTelnetFile {
 
     public static void main(String[] args) throws Exception {
 

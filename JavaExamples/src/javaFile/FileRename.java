@@ -4,7 +4,7 @@ import java.io.File;
 
 /**
  * 文件重命名
- * Created by LuoSw on 2016/10/20 0020.
+ * Created by luosv on 2016/10/20 0020.
  */
 public class FileRename {
 

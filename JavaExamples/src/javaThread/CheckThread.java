@@ -2,7 +2,7 @@ package javaThread;
 
 /**
  * 查看线程是否存活
- * Created by lv on 2016/11/7 0007.
+ * Created by luosv on 2016/11/7 0007.
  */
 public class CheckThread extends Thread {
 

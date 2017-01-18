@@ -5,7 +5,7 @@ import java.net.URLConnection;
 
 /**
  * 查看主机指定文件的最后修改时间
- * Created by LuoSw on 2016/10/31 0031.
+ * Created by luosv on 2016/10/31 0031.
  */
 public class GetLastModified {
 

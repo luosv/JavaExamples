@@ -6,7 +6,7 @@ import java.util.TreeSet;
 
 /**
  * 集合比较
- * Created by LuoSw on 2016/10/26 0026.
+ * Created by luosv on 2016/10/26 0026.
  */
 public class CollectionCompare {
 

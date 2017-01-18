@@ -6,7 +6,7 @@ import java.net.UnknownHostException;
 
 /**
  * 查看端口是否已使用
- * Created by LuoSw on 2016/10/31 0031.
+ * Created by luosv on 2016/10/31 0031.
  */
 public class CheckPort {
 

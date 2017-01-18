@@ -4,7 +4,7 @@ import java.io.IOException;
 
 /**
  * 压栈出栈的方法实现字符串反转
- * Created by LuoSw on 2016/10/25 0025.
+ * Created by luosv on 2016/10/25 0025.
  */
 public class StringReverserThroughStack {
 

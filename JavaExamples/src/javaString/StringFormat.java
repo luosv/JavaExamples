@@ -4,7 +4,7 @@ import java.util.Locale;
 
 /**
  * 字符串格式化
- * Created by Administrator on 2016/10/13 0013.
+ * Created by luosv on 2016/10/13 0013.
  */
 public class StringFormat {
 

@@ -5,7 +5,7 @@ import java.util.Collections;
 
 /**
  * 数组获取最大值和最小值
- * Created by Administrator on 2016/10/14 0014.
+ * Created by luosv on 2016/10/14 0014.
  */
 public class ListMaxAndMin {
 

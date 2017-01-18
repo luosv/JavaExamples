@@ -5,7 +5,7 @@ package javaMethods;
  * 1.有三根杆子A,B,C。A杆上有若干碟子
  * 2.每次移动一块碟子,小的只能叠在大的上面
  * 3.把所有碟子从A杆全部移到C杆上
- * Created by LuoSw on 2016/10/17 0017.
+ * Created by luosv on 2016/10/17 0017.
  */
 public class HanoiAlgorithm {
 

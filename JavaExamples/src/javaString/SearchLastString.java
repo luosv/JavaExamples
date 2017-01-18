@@ -2,7 +2,7 @@ package javaString;
 
 /**
  * 查找字符串最后一次出现的位置
- * Created by Administrator on 2016/10/12 0012.
+ * Created by luosv on 2016/10/12 0012.
  */
 public class SearchLastString {
 

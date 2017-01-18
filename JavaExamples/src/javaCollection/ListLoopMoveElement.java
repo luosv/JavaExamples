@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * List 循环移动元素
- * Created by LuoSw on 2016/11/3 0003.
+ * Created by luosv on 2016/11/3 0003.
  */
 public class ListLoopMoveElement {
 

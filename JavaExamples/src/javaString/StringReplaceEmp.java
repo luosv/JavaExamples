@@ -2,7 +2,7 @@ package javaString;
 
 /**
  * 字符串替换
- * Created by Administrator on 2016/10/13 0013.
+ * Created by luosv on 2016/10/13 0013.
  */
 public class StringReplaceEmp {
 

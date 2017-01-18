@@ -4,7 +4,7 @@ import java.io.*;
 
 /**
  * 向文件中追加数据
- * Created by LuoSw on 2016/10/19 0019.
+ * Created by luosv on 2016/10/19 0019.
  */
 public class AddData {
 

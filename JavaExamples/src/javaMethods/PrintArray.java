@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * 输出数组元素
- * Created by LuoSw on 2016/10/17 0017.
+ * Created by luosv on 2016/10/17 0017.
  */
 public class PrintArray {
 

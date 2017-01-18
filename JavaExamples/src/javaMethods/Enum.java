@@ -2,7 +2,7 @@ package javaMethods;
 
 /**
  * Enum（枚举）构造函数及方法的使用
- * Created by LuoSw on 2016/10/18 0018.
+ * Created by luosv on 2016/10/18 0018.
  */
 enum Cars {
 

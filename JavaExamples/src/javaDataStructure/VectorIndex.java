@@ -5,7 +5,7 @@ import java.util.Vector;
 
 /**
  * 获取向量元素的索引值
- * Created by LuoSw on 2016/10/25 0025.
+ * Created by luosv on 2016/10/25 0025.
  */
 public class VectorIndex {
 

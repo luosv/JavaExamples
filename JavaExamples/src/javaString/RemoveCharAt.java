@@ -2,7 +2,7 @@ package javaString;
 
 /**
  * 删除字符串中的一个字符
- * Created by Administrator on 2016/10/12 0012.
+ * Created by luosv on 2016/10/12 0012.
  */
 public class RemoveCharAt {
 

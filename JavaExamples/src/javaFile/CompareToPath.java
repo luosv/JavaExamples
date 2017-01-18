@@ -4,7 +4,7 @@ import java.io.File;
 
 /**
  * 文件路径比较
- * Created by LuoSw on 2016/10/21 0021.
+ * Created by luosv on 2016/10/21 0021.
  */
 public class CompareToPath {
 

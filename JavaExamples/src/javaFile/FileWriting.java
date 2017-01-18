@@ -7,7 +7,7 @@ import java.io.IOException;
 
 /**
  * 文件写入
- * Created by LuoSw on 2016/10/19 0019.
+ * Created by luosv on 2016/10/19 0019.
  */
 public class FileWriting {
 

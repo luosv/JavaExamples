@@ -2,7 +2,7 @@ package javaException;
 
 /**
  * 自定义异常
- * Created by LuoSw on 2016/10/24 0024.
+ * Created by luosv on 2016/10/24 0024.
  */
 class WrongInputException extends Exception {
 

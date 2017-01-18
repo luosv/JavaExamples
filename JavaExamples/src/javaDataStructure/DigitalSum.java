@@ -2,7 +2,7 @@ package javaDataStructure;
 
 /**
  * 数字求和运算
- * Created by LuoSw on 2016/10/24 0024.
+ * Created by luosv on 2016/10/24 0024.
  */
 public class DigitalSum {
 

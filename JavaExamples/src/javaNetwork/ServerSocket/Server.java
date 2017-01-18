@@ -6,7 +6,7 @@ import java.net.Socket;
 
 /**
  * ServerSocket 和 Socket 通信实例
- * Created by lv on 2016/11/7 0007.
+ * Created by luosv on 2016/11/7 0007.
  * <p>
  * 1、建立服务器端
  * <p>

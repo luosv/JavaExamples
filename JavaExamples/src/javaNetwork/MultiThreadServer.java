@@ -7,7 +7,7 @@ import java.net.Socket;
 
 /**
  * Socket 实现多线程服务器程序
- * Created by LuoSw on 2016/10/31 0031.
+ * Created by luosv on 2016/10/31 0031.
  */
 public class MultiThreadServer implements Runnable {
 

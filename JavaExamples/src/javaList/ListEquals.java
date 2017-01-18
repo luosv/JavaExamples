@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * 判断数组是否相等
- * Created by Administrator on 2016/10/17 0017.
+ * Created by luosv on 2016/10/17 0017.
  */
 public class ListEquals {
 

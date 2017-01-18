@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * 数组排序及元素查找
- * Created by Administrator on 2016/10/13 0013.
+ * Created by luosv on 2016/10/13 0013.
  */
 public class ListSortSearchElement {
 

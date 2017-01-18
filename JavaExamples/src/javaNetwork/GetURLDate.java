@@ -6,7 +6,7 @@ import java.util.Date;
 
 /**
  * 获取 URL响应头的日期信息
- * Created by lv on 2016/11/7 0007.
+ * Created by luosv on 2016/11/7 0007.
  */
 public class GetURLDate {
 

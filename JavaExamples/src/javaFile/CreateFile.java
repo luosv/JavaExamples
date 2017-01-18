@@ -5,7 +5,7 @@ import java.io.IOException;
 
 /**
  * 创建文件
- * Created by LuoSw on 2016/10/20 0020.
+ * Created by luosv on 2016/10/20 0020.
  */
 public class CreateFile {
 

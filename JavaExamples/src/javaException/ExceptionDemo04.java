@@ -2,7 +2,7 @@ package javaException;
 
 /**
  * 使用 catch 处理异常
- * Created by LuoSw on 2016/10/24 0024.
+ * Created by luosv on 2016/10/24 0024.
  */
 public class ExceptionDemo04 {
 

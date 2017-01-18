@@ -2,7 +2,7 @@ package javaDataStructure;
 
 /**
  * 栈的实现
- * Created by LuoSw on 2016/10/25 0025.
+ * Created by luosv on 2016/10/25 0025.
  */
 public class ImplementationOfStacks {
 

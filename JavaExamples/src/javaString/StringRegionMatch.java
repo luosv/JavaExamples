@@ -2,7 +2,7 @@ package javaString;
 
 /**
  * 测试两个字符串区域是否相等
- * Created by Administrator on 2016/10/13 0013.
+ * Created by luosv on 2016/10/13 0013.
  */
 public class StringRegionMatch {
 

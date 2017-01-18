@@ -6,7 +6,7 @@ import java.util.Set;
 
 /**
  * 数组并集
- * Created by Administrator on 2016/10/17 0017.
+ * Created by luosv on 2016/10/17 0017.
  */
 public class ListAndSet {
 

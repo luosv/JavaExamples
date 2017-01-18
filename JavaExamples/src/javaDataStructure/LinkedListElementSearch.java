@@ -4,7 +4,7 @@ import java.util.LinkedList;
 
 /**
  * 链表元素查找
- * Created by LuoSw on 2016/10/25 0025.
+ * Created by luosv on 2016/10/25 0025.
  */
 public class LinkedListElementSearch {
 

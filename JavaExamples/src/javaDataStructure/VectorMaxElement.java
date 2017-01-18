@@ -5,7 +5,7 @@ import java.util.Vector;
 
 /**
  * 获取向量的最大元素
- * Created by LuoSw on 2016/10/26 0026.
+ * Created by luosv on 2016/10/26 0026.
  */
 public class VectorMaxElement {
 

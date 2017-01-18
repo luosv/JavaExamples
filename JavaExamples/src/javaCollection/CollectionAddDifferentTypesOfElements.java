@@ -4,7 +4,7 @@ import java.util.*;
 
 /**
  * 集合中添加不同类型元素
- * Created by LuoSw on 2016/11/3 0003.
+ * Created by luosv on 2016/11/3 0003.
  */
 public class CollectionAddDifferentTypesOfElements {
 
@@ -74,13 +74,13 @@ public class CollectionAddDifferentTypesOfElements {
     private static void disPalyAll(Collection col) {
 
         // while
-        /*Iterator itr = col.iterator();
-        while (itr.hasNext()) {
-            String str = (String) itr.next();
-            System.out.print(str + " ");
-        }*/
+//        Iterator itr = col.iterator();
+//        while (itr.hasNext()) {
+//            String str = (String) itr.next();
+//            System.out.print(str + " ");
+//        }
 
-        // foreach better!!!
+        // foreach better!
         for (Object obj : col) {
             String str = (String) obj;
             System.out.print(str + " ");

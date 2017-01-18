@@ -4,7 +4,7 @@ import java.io.File;
 
 /**
  * 判断目录是否为空
- * Created by LuoSw on 2016/10/21 0021.
+ * Created by luosv on 2016/10/21 0021.
  */
 public class IsNull {
 

@@ -2,7 +2,7 @@ package javaString;
 
 /**
  * 首字母大写
- * Created by LuoSw on 2016/11/2 0002.
+ * Created by luosv on 2016/11/2 0002.
  */
 public class InitialToUpperCase {
 

@@ -5,7 +5,7 @@ import java.util.Iterator;
 
 /**
  * 集合长度
- * Created by LuoSw on 2016/10/26 0026.
+ * Created by luosv on 2016/10/26 0026.
  */
 public class CollectionLength {
 

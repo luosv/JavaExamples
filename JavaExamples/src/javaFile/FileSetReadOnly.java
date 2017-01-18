@@ -4,7 +4,7 @@ import java.io.File;
 
 /**
  * 设置文件只读
- * Created by LuoSw on 2016/10/20 0020.
+ * Created by luosv on 2016/10/20 0020.
  */
 public class FileSetReadOnly {
 

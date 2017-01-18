@@ -2,7 +2,7 @@ package javaList;
 
 /**
  * 获取数组长度
- * Created by Administrator on 2016/10/14 0014.
+ * Created by luosv on 2016/10/14 0014.
  */
 public class GetListLength {
 

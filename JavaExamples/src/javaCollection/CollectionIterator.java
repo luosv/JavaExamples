@@ -2,11 +2,10 @@ package javaCollection;
 
 import java.util.Collection;
 import java.util.HashMap;
-import java.util.Iterator;
 
 /**
  * HashMap遍历
- * Created by LuoSw on 2016/10/26 0026.
+ * Created by luosv on 2016/10/26 0026.
  */
 public class CollectionIterator {
 
@@ -20,10 +19,15 @@ public class CollectionIterator {
 
         Collection collection = hashMap.values();
 
-        Iterator iterator = collection.iterator();
+        // while
+//        Iterator iterator = collection.iterator();
+//        while (iterator.hasNext()) {
+//            System.out.println(iterator.next());
+//        }
 
-        while (iterator.hasNext()) {
-            System.out.println(iterator.next());
+        // foreach better!
+        for (Object col : collection) {
+            System.out.println(col);
         }
 
     }

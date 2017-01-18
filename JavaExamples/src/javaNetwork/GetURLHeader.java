@@ -8,7 +8,7 @@ import java.util.Set;
 
 /**
  * 获取 URL 响应头信息
- * Created by lv on 2016/11/7 0007.
+ * Created by luosv on 2016/11/7 0007.
  */
 public class GetURLHeader {
 

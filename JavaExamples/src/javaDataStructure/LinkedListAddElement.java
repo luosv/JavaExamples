@@ -4,7 +4,7 @@ import java.util.LinkedList;
 
 /**
  * 在链表（LinkedList）的开头和结尾添加元素
- * Created by LuoSw on 2016/10/25 0025.
+ * Created by luosv on 2016/10/25 0025.
  */
 public class LinkedListAddElement {
 

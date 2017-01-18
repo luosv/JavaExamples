@@ -7,7 +7,7 @@ import java.time.format.DateTimeFormatter;
 
 /**
  * 格式化时间
- * Created by LuoSw on 2016/10/17 0017.
+ * Created by luosv on 2016/10/17 0017.
  */
 public class SimpleDateFormat {
 
