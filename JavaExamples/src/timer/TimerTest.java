@@ -18,9 +18,10 @@ public class TimerTest {
 
     /**
      * 定时器
-     * @param delay 等待时间
+     *
+     * @param delay    等待时间
      * @param duration 运行时间
-     * @param period 运行频率
+     * @param period   运行频率
      */
     private static void timer(int delay, int duration, int period) {
 
