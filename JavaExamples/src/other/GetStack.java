@@ -6,7 +6,7 @@ package other;
  */
 public class GetStack {
 
-    public static String getStack() {
+    private static String getStack() {
 
         Exception exception = new Exception();
         StackTraceElement[] stackTrace = exception.getStackTrace();
