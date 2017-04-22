@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book id="001" date="2013">
+        <title>Harry Potter</title>
+        <author>J K. Rowling</author>
+    </book>
+    <book id="002" date="2010">
+        <title>Learning XML</title>
+        <author>Erik T. Ray</author>
+    </book>
+</books>
